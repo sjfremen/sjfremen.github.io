@@ -1,2 +1,2 @@
-# sj.github.io
+# sjfremen.github.io
 Analytics Portfolio 
